@@ -1,5 +1,5 @@
 <?php
-
+require_once __DIR__ . "/../traits/TipoDiSpedizione.php";
 class Product
 {
   protected $name;
